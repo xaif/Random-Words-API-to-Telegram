@@ -5,7 +5,7 @@
 :unicorn: Get Random Words (with pronunciation) and send to Telegram API
 
 ## :rocket: API
-- Feel free to use this API - `https://random-words-api.vercel.app/`
+- Feel free to use this API - `https://webverge.vercel.app/`
 
 - Demo - [Check Here](https://t.me/learnwordoftheday)
 
